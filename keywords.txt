@@ -1,0 +1,246 @@
+Acquire OSINT data sets and information
+Acquire and use 3rd party infrastructure services
+Acquire and use 3rd party software services
+Acquire or compromise 3rd party signing certificates
+Aggregate individual's digital footprint
+Analyze application security posture
+Analyze architecture and configuration posture
+Analyze business processes
+Analyze data collected
+Analyze software security defensive capabilities
+Analyze hardware security defensive capabilities
+Analyze organizational skillsets and deficiencies
+Analyze presence of outsourced capabilities
+Analyze social and business relationships, interests, and affiliations
+Anonymity services
+Assess KIQs benefits
+Assess KITs benefits
+Assess current holdings, needs, and wants
+Assess leadership areas of interest
+Assess opportunities created by business deals
+Assess security posture of physical locations
+Assess targeting options
+Assess vulnerability of 3rd party vendors
+Assign KITs, KIQs, and intelligence requirements
+Authentication attempt
+Authorized user performs requested cyber action
+Automated system performs requested action
+Build and configure delivery systems
+Build or acquire exploits
+Build social network persona
+Buy domain name
+C2 protocol development
+Choose pre-compromised mobile app developer account credentials or signing keys
+Choose pre-compromised persona and affiliated accounts
+Common, high volume protocols and software
+Compromise 3rd party infrastructure to support delivery
+Compromise 3rd party or closed-source vulnerability/exploit information
+Compromise of externally facing system
+Conduct active scanning
+Conduct benefit analysis
+Conduct cost analysis
+Conduct passive scanning
+Conduct social engineering
+Conduct social engineering or HUMINT operation
+Confirmation of launched compromise achieved
+Create backup infrastructure
+Create custom payloads
+Create implementation plan
+Create infected removable media
+Create strategic plan
+Credential pharming
+DNS poisoning
+DNSCalc
+Data Hiding
+Deploy exploit using advertising
+Derive intelligence requirements
+Determine 3rd party infrastructure services
+Determine approach vector
+Determine attack vector
+Determine centralization of IT management
+Determine domain and IP address space
+Determine external network trust dependencies
+Determine firmware version
+Determine highest level tactical element
+Determine operational element
+Determine physical locations
+Determine secondary level tactical element
+Determine strategic target
+Develop KITs
+Develop KIQs
+Develop social network persona digital footprint
+Discover new exploits and monitor exploit-provider forums
+Discover target logon address format
+Discover target email address format
+Disseminate removable media
+Distribute malicious software development tools
+Domain Generation Algorithms (DGA)
+Domain registration hijacking
+Dumpster dive
+Dynamic DNS
+Enumerate client configurations
+Enumerate externally facing software applications technologies, languages, and dependencies
+Exploit public-facing application
+Fast Flux DNS
+Connect to targets of interest
+Follow to targets of interest
+Connect to targets of interest
+Generate analyst intelligence requirements
+Hardware or software supply chain implant
+Host-based hiding techniques
+Human performs requested action of physical nature
+Identify analyst level gaps
+Identify business processes
+Identify business tempo
+Identify business relationships
+Identify gap areas
+Identify people of interest
+Identify personnel with an authority
+Identify personnel with an privilege
+Identify resources required to build capabilities
+Identify security defensive capabilities
+Identify sensitive personnel information
+Identify supply chains
+Identify technology usage patterns
+Identify vulnerabilities in third-party software libraries
+Identify web defensive services
+Install and configure hardware, network, and systems
+Leverage compromised 3rd party resources
+Map network topology
+Mine social media
+Mine technical blogs
+Mine technical forums
+Misattributable credentials
+Network-based hiding techniques
+Non-traditional or less attributable payment options
+OS-vendor provided communication channels
+Obfuscate infrastructure
+Obfuscate operational infrastructure
+Obfuscate or encrypt code
+Obfuscation or cryptography
+Obtain Apple iOS enterprise distribution key pair and certificate
+Obtain booter/stressor subscription
+Obtain domain/IP registration information
+Obtain templates/branding materials
+Obtain/re-use payloads
+Port redirector
+Post compromise tool development
+Private whois services
+Procure required equipment and software
+Proxy/protocol relays
+Push-notification client-side exploit
+Receive KITs/KIQs and determine requirements
+Receive operator KITs/KIQs tasking
+Remote access tool development
+Replace legitimate binary with malware
+Research relevant vulnerabilities
+Research relevant CVEs
+Research visibility gap of security vendors
+Review logs and residual traces
+Runtime code download and execution
+SSL certificate acquisition for domain
+SSL certificate acquisition for trust breaking
+Secure and protect infrastructure
+Shadow DNS
+Spear phishing messages with malicious attachments
+Spear phishing messages with malicious links
+Spear phishing messages with text only
+Spearphishing for Information
+Submit KITs, KIQs, and intelligence requirements
+Targeted client-side exploitation
+Targeted social media phishing
+Task requirements
+Test ability to evade automated mobile application security analysis performed by app stores
+Test callback functionality
+Test malware in various execution environments
+Test malware to evade detection
+Test physical access
+Test signature detection
+Test signature detection for file upload filters
+Test signature detection for file email filters
+Unauthorized user introduces compromise delivery mechanism
+Untargeted client-side exploitation
+Upload, install, and configure tools
+Upload, install, and configure software
+Use multiple DNS infrastructures
+DOD
+NIPRNEet
+SSRF
+DNS
+TLS
+APT10
+APT33
+APT34
+APT35
+WebAuthn
+Biometric
+Breaking CFI
+Scanning Activity 
+China
+vincentyiu
+Crowdstrike
+Falcon X
+Cybersecurity Tech Accord
+Exploitation 
+user to system EoP
+0day
+exploit
+hack
+attack
+0-day
+MikroTik
+Routeros
+WhatsApp
+GDPR
+Telegram
+AWS
+NSA
+National Security Agency
+DHS
+Department of Homeland Security
+NSC
+National Security Council
+Tailored Access Operations
+CIO Council
+Commission on Enhancing National Cybersecurity
+American Technology Council
+Information and Communications Infrastructure Interagency Policy Committee
+The International Sub-IPC
+Cyber and Technology Security
+Office of Cyber Affairs
+Office of International Communications and Information Policy
+Cyber Security Division
+The Office of the Director of National Intelligence
+Cyber Threat Intelligence Integration Center
+National Institute of Standards and Technology
+Office of the Cyber Policy
+DoD Cyber Crime Center
+Cyber Command
+McBee Strategic Consulting
+Peck Madigan Jones
+Van Scoyoc Associates
+Franklin Square Group
+Monument Policy Group
+Ogilvy Government Relations
+Center for a New American Security
+Atlantic Council
+Council on Foreign Relations
+EastWest Institute
+Wilson Center
+Cato Institute
+Center for Data Innovation
+CIO
+CISO
+White House Cybersecurity Coordinator
+Director of the White House's American Technology Council
+The Coordinator for Cyber Issues
+law
+act
+bill
+draft
+projet
+regulations
+frame
+military exercise
+NATO
+FIREEYE
