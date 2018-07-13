@@ -1,0 +1,570 @@
+MikroTik
+Routeros
+WhatsApp
+3PARA RAT
+4H RAT
+ADVSTORESHELL
+NETUI
+EVILTOSS
+AZZY
+Sedreco
+ASPXSpy
+ASPXTool
+Agent.btz
+Arp
+arp.exe
+AutoIt backdoor
+BACKSPACE
+Lecna
+BADNEWS
+BBSRAT
+BISCUIT
+BITSAdmin
+BLACKCOFFEE
+BOOTRASH
+BS2005
+BUBBLEWRAP
+Backdoor.APT.FakeWinHTTPHelper
+Backdoor.Oldrea
+Havex
+BlackEnergy
+Black Energy
+Briba
+CALENDAR
+CCBkdr
+CHOPSTICK
+SPLM
+Xagent
+X-Agent
+webhp
+CORALDECK
+CORESHELL
+SOURFACE
+Cachedump
+CallMe
+Carbanak
+Anunak
+ChChes
+Scorpion
+HAYMAKER
+Chaos
+Cherry Picker
+China Chopper
+CloudDuke
+MiniDionis
+CloudLook
+Cobalt Strike
+ComRAT
+CosmicDuke
+TinyBaron
+BotgenStudios
+NemesisGemina
+CozyCar
+CozyDuke
+CozyBear
+Cozer
+EuroAPT
+Crimson
+MSIL/Crimson
+DOGCALL
+Darkmoon
+Daserf
+Muirim
+Nioupale
+Derusbi
+PHOTO
+Dipsind
+DownPaper
+Downdelph
+Delphacy
+Duqu
+DustySky
+NeD Worm
+Dyre
+ELMER
+Elise
+BKDR_ESILE
+Page
+Emissary
+Epic
+Tavdig
+Wipbot
+WorldCupSec
+TadjMakhal
+EvilGrab
+FALLCHILL
+FLASHFLOOD
+FLIPSIDE
+FTP
+ftp.exe
+FakeM
+Felismus
+Fgdump
+FinFisher
+FinSpy
+Flame
+Flamer
+sKyWIper
+Forfiles
+GLOOXMAIL
+Trojan.GTALK
+Gazer
+WhiteBear
+GeminiDuke
+H1N1
+HALFBAKED
+HAMMERTOSS
+HammerDuke
+NetDuke
+HAPPYWORK
+HDoor
+Custom HDoor
+HIDEDRV
+HOMEFRY
+HTRAN
+HUC Packet Transmit Tool
+HTTPBrowser
+Token Control
+HttpDump
+Hacking Team UEFI Rootkit
+Havij
+Helminth
+Hi-Zor
+Hikit
+Hydraq
+Aurora
+9002 RAT
+ISMInjector
+Invoke-PSImage
+Ixeshe
+JHUHUGIT
+Seduploader
+JKEYSKW
+Sednit
+GAMEFISH
+SofacyCarberp
+JPIN
+Janicab
+KARAE
+KOMPROGO
+Kasidet
+Komplex
+LOWBALL
+Linfo
+Lslsass
+Lurid
+Enfal
+MURKYTOP
+Matroyshka
+MimiPenguin
+Mimikatz
+Miner-C
+Mal/Miner-C
+PhotoMiner
+MiniDuke
+Mis-Type
+Misdat
+Mivast
+MobileOrder
+MoonWind
+NETEAGLE
+NETWIRE
+Naid
+NanHaiShu
+Nerex
+Net
+net.exe
+Net Crawler
+NetC
+NetTraveler
+Nidiran
+Backdoor.Nidiran
+OLDBAIT
+Sasfis
+OSInfo
+OnionDuke
+Orz
+AIRBREAK
+OwaAuth
+P2P ZeuS
+Peer-to-Peer ZeuS
+Gameover ZeuS
+PHOREAL
+POORAIM
+POSHSPY
+POWERSOURCE
+DNSMessenger
+POWERSTATS
+POWRUNER
+PUNCHBUGGY
+PUNCHTRACK
+PSVC
+Pasam
+Pass-The-Hash Toolkit
+PinchDuke
+Ping
+ping.exe
+Pisloader
+PlugX
+Sogu
+Kaba
+Korplug
+PoisonIvy
+Poison Ivy
+Power Loader
+Win32/Agent.UAW
+PowerDuke
+PowerSploit
+Prikormka
+PsExec
+Psylo
+Pteranodon
+Pupy
+RARSTONE
+RIPTIDE
+ROCKBOOT
+RTM
+RawPOS
+FIENDCRY
+DUEBREW
+DRIFTWOOD
+Reaver
+RedLeaves
+BUGJUICE
+Reg
+reg.exe
+Regin
+RemoteCMD
+Remsec
+Backdoor.Remsec
+ProjectSauron
+Responder
+Rover
+S-Type
+SDelete
+SEASHARPEE
+SHIPSHAPE
+SHOTPUT
+Backdoor.APT.CookieCutter
+Pirpi
+SHUTTERSPEED
+SLOWDRIFT
+SNUGRIDE
+SOUNDBITE
+SPACESHIP
+Sakula
+Sakurel
+VIPER
+SeaDuke
+SeaDaddy
+SeaDesk
+Shamoon
+Disttrack
+Skeleton Key
+Smoke Loader
+Dofoil
+SslMM
+Starloader
+StreamEx
+Sykipot
+Sys10
+Systeminfo
+systeminfo.exe
+T9000
+TDTESS
+TEXTMATE
+TINYTYPHON
+TURNEDUP
+Taidoor
+Tasklist
+TinyZBot
+Tor
+Trojan.Karagany
+Trojan.Mebromi
+Truvasys
+UACMe
+USBStealer
+USB Stealer
+Win32/USBStealer
+Umbreon
+Unknown Logger
+Uroburos
+Vasport
+Volgmer
+WEBC2
+WINDSHIELD
+WINERACK
+Wiarp
+WinMM
+Windows Credential Editor
+WCE
+Winexe
+Wingbird
+Winnti
+Wiper
+XAgentOSX
+XTunnel
+X-Tunnel
+XAPS
+ZLib
+ZeroT
+Zeroaccess
+Trojan.Zeroaccess
+adbupd
+certutil
+certutil.exe
+dsquery
+dsquery.exe
+gh0st
+gsecdump
+hcdLoader
+httpclient
+ifconfig
+ipconfig
+ipconfig.exe
+meek
+nbtstat
+nbtstat.exe
+netsh
+netsh.exe
+netstat
+netstat.exe
+pngdowner
+pwdump
+route
+route.exe
+schtasks
+schtasks.exe
+spwebmember
+sqlmap
+xCmd
+DNS
+TLS
+WebAuthn
+China
+Falcon X
+Cybersecurity Tech Accord
+user to system EoP
+0day
+attack
+0-day
+NATO
+FIREEYE
+Drive-by Compromise
+Hardware Additions
+Replication Through Removable Media
+Spearphishing Attachment
+Spearphishing Link
+Spearphishing via Service
+Supply Chain Compromise
+Trusted Relationship
+Valid Accounts
+LSASS Driver
+Launchctl
+Local Job Scheduling
+Mshta
+PowerShell
+Regsvcs/Regasm
+Regsvr32
+Rundll32
+Scheduled Task
+Scripting
+Service Execution
+Signed Binary Proxy Execution
+Signed Script Proxy Execution
+Source
+Space after Filename
+Third-party Software
+Trap
+Trusted Developer Utilities
+User Execution
+Windows Management Instrumentation
+Windows Remote Management
+Netsh Helper DLL
+New Service
+Office Application Startup
+Path Interception
+Plist Modification
+Port Knocking
+Port Monitors
+Rc.common
+Re-opened Applications
+Redundant Access
+Registry Run Keys / Start Folder
+SIP and Trust Provider Hijacking
+Screensaver
+Security Support Provider
+Service Registry Permissions Weakness
+Shortcut Modification
+Startup Items
+System Firmware
+Time Providers
+Web Shell
+Windows Management Instrumentation Event Subscription
+Winlogon Helper DLL
+Web Service
+AppleScript
+CMSTP
+Command-Line Interface
+Control Panel Items
+Dynamic Data Exchange
+Execution through API
+Execution through Module Load
+Exploitation for Client Execution
+Graphical User Interface
+InstallUtil
+Component Firmware
+Component Object Model Hijacking
+Create Account
+DLL Search Order Hijacking
+Dylib Hijacking
+External Remote Services
+File System Permissions Weakness
+Hidden Files and Directories
+Hooking
+Hypervisor
+Image File Execution Options Injection
+Kernel Modules and Extensions
+LC_LOAD_DYLIB Addition
+Launch Agent
+Launch Daemon
+Login Item
+Logon Scripts
+Modify Existing Service
+.bash_profile and .bashrc
+Accessibility Features
+AppCert DLLs
+AppInit DLLs
+Application Shimming
+Authentication Package
+BITS Jobs
+Bootkit
+Browser Extensions
+Change Default File Association
+Process Injection
+SID-History Injection
+Setuid and Setgid
+Sudo
+Sudo Caching
+LC_MAIN Hijacking
+Masquerading
+Modify Registry
+NTFS File Attributes
+Network Share Connection Removal
+Obfuscated Files or Information
+Process Doppelgänging
+Process Hollowing
+Rootkit
+Software Packing
+Timestomp
+Access Token Manipulation
+Bypass User Account Control
+Exploitation for Privilege Escalation
+Extra Window Memory Injection
+DCShadow
+DLL Side-Loading
+Deobfuscate/Decode Files or Information
+Disabling Security Tools
+Exploitation for Defense Evasion
+File Deletion
+File System Logical Offsets
+Gatekeeper Bypass
+HISTCONTROL
+Hidden Users
+Hidden Window
+Indicator Blocking
+Indicator Removal from Tools
+Indicator Removal on Host
+Indirect Command Execution
+Install Root Certificate
+Binary Padding
+Clear Command History
+Code Signing
+Input Prompt
+Kerberoasting
+Keychain
+LLMNR/NBT-NS Poisoning
+Network Sniffing
+Password Filter DLL
+Private Keys
+Securityd Memory
+Two-Factor Authentication Interception
+Account Manipulation
+Bash History
+Brute Force
+Credential Dumping
+Credentials in Files
+Credentials in Registry
+Exploitation for Credential Access
+Forced Authentication
+Input Capture
+Query Registry
+Remote System Discovery
+Security Software Discovery
+System Information Discovery
+System Network Configuration Discovery
+System Network Connections Discovery
+System Owner/User Discovery
+System Service Discovery
+System Time Discovery
+Account Discovery
+Application Window Discovery
+Browser Bookmark Discovery
+File and Directory Discovery
+Network Service Scanning
+Network Share Discovery
+Password Policy Discovery
+Peripheral Device Discovery
+Permission Groups Discovery
+Process Discovery
+SSH Hijacking
+Shared Webroot
+Taint Shared Content
+Windows Admin Shares
+Application Deployment Software
+Distributed Component Object Model
+Exploitation of Remote Services
+Pass the Hash
+Pass the Ticket
+Remote Desktop Protocol
+Remote File Copy
+Remote Services
+Man in the Browser
+Screen Capture
+Video Capture
+Audio Capture
+Automated Collection
+Clipboard Data
+Data Staged
+Data from Information Repositories
+Data from Local System
+Data from Network Shared Drive
+Data from Removable Media
+Email Collection
+Automated Exfiltration
+Data Compressed
+Data Encrypted
+Data Transfer Size Limits
+Exfiltration Over Alternative Protocol
+Exfiltration Over Command and Control Channel
+Exfiltration Over Other Network Medium
+Exfiltration Over Physical Medium
+Scheduled Transfer
+Multi-hop Proxy
+Multiband Communication
+Multilayer Encryption
+Remote Access Tools
+Standard Application Layer Protocol
+Standard Cryptographic Protocol
+Standard Non-Application Layer Protocol
+Uncommonly Used Port
+Commonly Used Port
+Communication Through Removable Media
+Connection Proxy
+Custom Command and Control Protocol
+Custom Cryptographic Protocol
+Data Encoding
+Data Obfuscation
+Domain Fronting
+Fallback Channels
+Multi-Stage Channels

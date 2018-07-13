@@ -107,6 +107,9 @@ title_all1, url_all1 = genpayload(num[0],cursor1)
 title_all2, url_all2 = genpayload(num[1],cursor2)
 title_all3, url_all3 = genpayload(num[2],cursor3)
 
+cursor1.close()
+cursor2.close()
+cursor3.close()
 
 dailytitle = (datetime.datetime.now()+datetime.timedelta(days=1)).strftime("%Y-%m-%d")#生成当天时间
 dailytitlep = (datetime.datetime.now()).strftime("%Y-%m-%d")
@@ -444,7 +447,7 @@ start3 = """
 for str1,str2 in zip(title_all1,url_all1):
     str1 = title_all1.pop()
     str2 = url_all1.pop()
-    if re.search(str1, news_all1) is not None:#检查是否有重复
+    if re.match(str1, news_all1) is not None:#检查是否有重复
         continue 
     news="""
     <li>
@@ -462,10 +465,10 @@ for str1,str2 in zip(title_all1,url_all1):
     news_all1 = news_all1 + news
 
 for str1,str2 in zip(title_all2,url_all2):
-    if re.search(str1, news_all2) is not None:
-        continue
     str1 = title_all2.pop()
     str2 = url_all2.pop()
+    if re.match(str1, news_all2) is not None:
+        continue
     news="""
     <li>
     <div id="singleweibo">
@@ -482,10 +485,10 @@ for str1,str2 in zip(title_all2,url_all2):
     news_all2 = news_all2 + news
 
 for str1,str2 in zip(title_all3,url_all3):
-    if re.search(str1, news_all3) is not None:
-        continue
     str1 = title_all3.pop()
     str2 = url_all3.pop()
+    if re.match(str1, news_all3) is not None:
+        continue
     news="""
     <li>
     <div id="singleweibo">

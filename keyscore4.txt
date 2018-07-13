@@ -1,0 +1,20 @@
+Automated Exfiltration
+Data Compressed
+Data Encrypted
+Data Transfer Size Limits
+Exfiltration Over Alternative Protocol
+Exfiltration Over Command and Control Channel
+Exfiltration Over Other Network Medium
+Exfiltration Over Physical Medium
+Scheduled Transfer
+Multi-hop Proxy
+Multiband Communication
+Multilayer Encryption
+Port Knocking
+Remote Access Tools
+Remote File Copy
+Standard Application Layer Protocol
+Standard Cryptographic Protocol
+Standard Non-Application Layer Protocol
+Uncommonly Used Port
+Web Service

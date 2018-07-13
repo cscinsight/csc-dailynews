@@ -1,111 +1,875 @@
-DOD
-NIPRNEet
-SSRF
-DNS
-TLS
-APT10
-APT28
-APT33
-APT34
-APT35
-WebAuthn
-Biometric
-Breaking CFI
-Scanning Activity 
-China
-Vincentyiu
-Crowdstrike
-Falcon X
-Cybersecurity Tech Accord
-Exploitation 
-User to system EoP
 0day
-Exploit
-Hack
-Attack
 0-day
-MikroTik
-Routeros
-WhatsApp
-GDPR
-Telegram
-AWS
-NSA
-National Security Agency
-DHS
-Department of Homeland Security
-National Protection & Programs Directorate
-NPPD
-NSC
-National Security Council
-Tailored Access Operations
-TAO
-The Office of E-Government and Information Technology
-E-Gov
-CIO Council
-Commission on Enhancing National Cybersecurity
+3PARA RAT
+4H RAT
+9002 RAT
+Access Token Manipulation
+Accessibility Features
+Account Discovery
+Account Manipulation
+Acquire and use 3rd party infrastructure services
+Acquire and use 3rd party software services
+Acquire or compromise 3rd party signing certificates
+Acquire OSINT data sets and information
+Adbupd
+ADVSTORESHELL
+Agent.btz
+Aggregate individual's digital footprint
+AIRBREAK
+Ajax Security Team
 American Technology Council
-Information and Communications Infrastructure Interagency Policy Committee
-ICI-IPC
-The International Sub-IPC
-Cyber and Technology Security
-CTS
-Office of Cyber Affairs
-INR/CYBER
-Office of International Communications and Information Policy
-EB/CIP
-Cyber Security Division
-CSD
-The Office of the Director of National Intelligence
-ODNI
-Cyber Threat Intelligence Integration Center
-CTIIC
-National Institute of Standards and Technology
-NIST
-U.S. Government Accountability Office
-GAO
-Office of the Cyber Policy
-DoD Cyber Crime Center
-DC3
-Cyber Command
-McBee Strategic Consulting
-Peck Madigan Jones
-Van Scoyoc Associates
-Franklin Square Group
-Monument Policy Group
-Mehlman Castagnetti Rosen&Thomas
-Mehlman Castagnetti Bingel Rosen&Thomas
-Ogilvy Government Relations
-Center for Strategic & International Studies
-CSIS
-Center for a New American Security
-CNAS
+Analyze application security posture
+Analyze architecture and configuration posture
+Analyze business processes
+Analyze data collected
+Analyze hardware security defensive capabilities
+Analyze organizational skillsets and deficiencies
+Analyze presence of outsourced capabilities
+Analyze social and business relationships, interests, and affiliations
+Analyze software security defensive capabilities
+Anonymity services
+Anunak
+AppCert DLLs
+AppInit DLLs
+AppleScript
+Application Deployment Software
+Application Shimming
+Application Window Discovery
+APT
+Arp
+ASPXSpy
+ASPXTool
+Assess current holdings, needs, and wants
+Assess KIQs benefits
+Assess KITs benefits
+Assess leadership areas of interest
+Assess opportunities created by business deals
+Assess security posture of physical locations
+Assess targeting options
+Assess vulnerability of 3rd party vendors
+Assign KITs, KIQs, and intelligence requirements
 Atlantic Council
-Brookings Institution
-Council on Foreign Relations
-CFR
-Carnegie Endowment For International Peace
-EastWest Institute
-EWI
-Wilson Center
-Cato Institute
-Information Technology&Innovation Foundation
-ITIF
-Center for Data Innovation
-CDI
-CIO
-CISO
-White House Cybersecurity Coordinator
-Director of the White House's American Technology Council
-The Coordinator for Cyber Issues
-Law
-Act
+Attack
+Audio Capture
+Aurora
+Authentication attempt
+Authentication Package
+Authorized user performs requested cyber action
+AutoIt backdoor
+Automated Collection
+Automated Exfiltration
+Automated system performs requested action
+AWS
+Axiom
+AZZY
+Backdoor.APT.CookieCutter
+Backdoor.APT.FakeWinHTTPHelper
+Backdoor.Nidiran
+Backdoor.Oldrea
+Backdoor.Remsec
+BACKSPACE
+BADNEWS
+Bash History
+BBSRAT
+Beijing Group
 Bill
+Binary Padding
+Biometric
+BISCUIT
+BITS Jobs
+BITSAdmin
+BKDR_ESILE
+Black Energy
+Black Vine
+BLACKCOFFEE
+BlackEnergy
+Blackfly
+BlackOasis
+Bootkit
+BOOTRASH
+BotgenStudios
+Breaking CFI
+Briba
+BRONZE BUTLER
+BRONZE UNION
+Browser Bookmark Discovery
+Browser Extensions
+Brute Force
+BS2005
+BUBBLEWRAP
+Buckeye
+BUGJUICE
+Build and configure delivery systems
+Build or acquire exploits
+Build social network persona
+Buy domain name
+Bypass User Account Control
+C2 protocol development
+Cachedump
+CALENDAR
+CallMe
+Carbanak
+Carbon Spider
+Cato Institute
+CCBkdr
+Center for a New American Security
+Center for Data Innovation
+Change Default File Association
+Chaos
+Charming Kitten
+ChChes
+Cherry Picker
+China
+China Chopper
+Chinastrats
+Choose pre-compromised mobile app developer account credentials or signing keys
+Choose pre-compromised persona and affiliated accounts
+CHOPSTICK
+CIO Council
+CISO
+Clear Command History
+Cleaver
+Clipboard Data
+CloudDuke
+CloudLook
+CMSTP
+Cobalt Gypsy
+Cobalt Strike
+Code Signing
+Command-Line Interface
+Comment Crew
+Comment Group
+Comment Panda
+Commission on Enhancing National Cybersecurity
+Common, high volume protocols and software
+Commonly Used Port
+Communication Through Removable Media
+Component Firmware
+Component Object Model Hijacking
+Compromise 3rd party infrastructure to support delivery
+Compromise 3rd party or closed-source vulnerability/exploit information
+Compromise of externally facing system
+ComRAT
+Conduct active scanning
+Conduct benefit analysis
+Conduct cost analysis
+Conduct passive scanning
+Conduct social engineering
+Conduct social engineering or HUMINT operation
+Confirmation of launched compromise achieved
+Connect to targets of interest
+Connection Proxy
+Control Panel Items
+CopyKittens
+CORALDECK
+CORESHELL
+CosmicDuke
+Council on Foreign Relations
+Cozer
+Cozy Bear
+CozyBear
+CozyCar
+CozyDuke
+Create Account
+Create backup infrastructure
+Create custom payloads
+Create implementation plan
+Create infected removable media
+Create strategic plan
+Credential Dumping
+Credential pharming
+Credentials in Files
+Credentials in Registry
+Crimson
+Crowdstrike
+Custom Command and Control Protocol
+Custom Cryptographic Protocol
+Custom HDoor
+CVNX
+Cyber and Technology Security
+Cyber Command
+Cyber Security Division
+Cyber Threat Intelligence Integration Center
+Cybersecurity Tech Accord
+Darkhotel
+Darkmoon
+Daserf
+Data Compressed
+Data Encoding
+Data Encrypted
+Data from Information Repositories
+Data from Local System
+Data from Network Shared Drive
+Data from Removable Media
+Data Hiding
+Data Obfuscation
+Data Staged
+Data Transfer Size Limits
+DCShadow
+Deep Panda
+Delphacy
+Deobfuscate/Decode Files or Information
+Department of Homeland Security
+Deploy exploit using advertising
+Deputy Dog
+Derive intelligence requirements
+Derusbi
+Determine 3rd party infrastructure services
+Determine approach vector
+Determine attack vector
+Determine centralization of IT management
+Determine domain and IP address space
+Determine external network trust dependencies
+Determine firmware version
+Determine highest level tactical element
+Determine operational element
+Determine physical locations
+Determine secondary level tactical element
+Determine strategic target
+Develop KIQs
+Develop KITs
+Develop social network persona digital footprint
+DHS
+Dipsind
+Director of the White House's American Technology Council
+Disabling Security Tools
+Discover new exploits and monitor exploit-provider forums
+Discover target email address format
+Discover target logon address format
+Disseminate removable media
+Distribute malicious software development tools
+Distributed Component Object Model
+Disttrack
+DLL Search Order Hijacking
+DLL Side-Loading
+DNS poisoning
+DNSCALC
+DNSMessenger
+DOD
+DoD Cyber Crime Center
+Dofoil
+DOGCALL
+Domain Fronting
+Domain Generation Algorithms (DGA)
+Domain registration hijacking
+Downdelph
+DownPaper
 Draft
-Projet
-Regulations
-Frame
-Military exercise
-NATO
+Dragonfly
+DragonOK
+DRIFTWOOD
+Drive-by Compromise
+Dropping Elephant
+DUEBREW
+Dumpster dive
+Duqu
+Dust Storm
+DustySky
+Dylib Hijacking
+Dynamic Data Exchange
+Dynamic DNS
+Dynamite Panda
+DynCalc
+Dyre
+EastWest Institute
+Elderwood
+Elderwood Gang
+Elise
+ELMER
+Email Collection
+Emissary
+Emissary Panda
+Energetic Bear
+Enfal
+Enumerate client configurations
+Enumerate externally facing software applications technologies, languages, and dependencies
+Epic
+Equation
+EuroAPT
+EvilGrab
+EVILTOSS
+Execution through API
+Execution through Module Load
+Exfiltration Over Alternative Protocol
+Exfiltration Over Command and Control Channel
+Exfiltration Over Other Network Medium
+Exfiltration Over Physical Medium
+exploit
+Exploit public-facing application
+Exploitation
+Exploitation for Client Execution
+Exploitation for Credential Access
+Exploitation for Defense Evasion
+Exploitation for Privilege Escalation
+Exploitation of Remote Services
+External Remote Services
+Extra Window Memory Injection
+FakeM
+Falcon X
+Fallback Channels
+FALLCHILL
+Fancy Bear
+Fast Flux DNS
+Felismus
+Fgdump
+FIENDCRY
+File and Directory Discovery
+File Deletion
+File System Logical Offsets
+File System Permissions Weakness
+FIN
+FinFisher
+FinSpy
 FIREEYE
-Malware
+Flame
+Flamer
+FLASHFLOOD
+FLIPSIDE
+Follow to targets of interest
+Forced Authentication
+Forfiles
+Franklin Square Group
+Gamaredon Group
+GAMEFISH
+Gameover ZeuS
+Gatekeeper Bypass
+Gaza Cybergang
+Gazer
+GCMAN
+GDPR
+GeminiDuke
+Generate analyst intelligence requirements
+gh0st
+GLOOXMAIL
+Gothic Panda
+Graphical User Interface
+Group
+Gsecdump
+Guardians of Peace
+Hack
+Hacking Team UEFI Rootkit
+HALFBAKED
+HammerDuke
+HAMMERTOSS
+HAPPYWORK
+Hardware Additions
+Hardware or software supply chain implant
+Havex
+Havij
+HAYMAKER
+HcdLoader
+HDoor
+Helminth
+HIDDEN COBRA
+Hidden Files and Directories
+Hidden Users
+Hidden Window
+HIDEDRV
+Hikit
+HISTCONTROL
+Hi-Zor
+HOMEFRY
+Hooking
+Host-based hiding techniques
+HTRAN
+HTTPBrowser
+Httpclient
+HttpDump
+HUC Packet Transmit Tool
+Human performs requested action of physical nature
+Hydraq
+Hypervisor
+Identify analyst level gaps
+Identify business processes
+Identify business relationships
+Identify business tempo
+Identify gap areas
+Identify people of interest
+Identify personnel with an authority
+Identify personnel with an privilege
+Identify resources required to build capabilities
+Identify security defensive capabilities
+Identify sensitive personnel information
+Identify supply chains
+Identify technology usage patterns
+Identify vulnerabilities in third-party software libraries
+Identify web defensive services
+Ifconfig
+Image File Execution Options Injection
+Indicator Blocking
+Indicator Removal from Tools
+Indicator Removal on Host
+Indirect Command Execution
+Information and Communications Infrastructure Interagency Policy Committee
+Input Capture
+Input Prompt
+Install and configure hardware, network, and systems
+Install Root Certificate
+InstallUtil
+Invoke-PSImage
+ISMInjector
+IXESHE
+Janicab
+JHUHUGIT
+JKEYSKW
+JPIN
+Kaba
+KARAE
+Kasidet
+Ke3chang
+Kerberoasting
+Kernel Modules and Extensions
+Keychain
+Komplex
+KOMPROGO
+Korplug
+KungFu Kittens
+Launch Agent
+Launch Daemon
+Launchctl
+Law
+Lazarus Group
+LC_LOAD_DYLIB Addition
+LC_MAIN Hijacking
+Lecna
+Leverage compromised 3rd party resources
+Leviathan
+Linfo
+LLMNR/NBT-NS Poisoning
+Local Job Scheduling
+Login Item
+Logon Scripts
+Lotus Blossom
+LOWBALL
+LSASS Driver
+Lslsass
+Lurid
+Magic Hound
+Mal/Miner-C
+Man in the Browser
+Map network topology
+Masquerading
+Matroyshka
+McBee Strategic Consulting
+Meek
+MenuPass
+MikroTik
+Military Exercise
+Mimikatz
+MimiPenguin
+Mine social media
+Mine technical blogs
+Mine technical forums
+Miner-C
+MiniDionis
+MiniDuke
+Misattributable credentials
+Misdat
+Mis-Type
+Mivast
+Moafee
+MobileOrder
+Modify Existing Service
+Modify Registry
+Molerats
+MONSOON
+Monument Policy Group
+MoonWind
+Mshta
+MSIL/Crimson
+MSUpdater
+MuddyWater
+Muirim
+Multiband Communication
+Multi-hop Proxy
+Multilayer Encryption
+Multi-Stage Channels
+MURKYTOP
+Musical Chairs
+Naid
+Naikon
+NanHaiShu
+National Institute of Standards and Technology
+National Security Agency
+National Security Council
+NATO
+NeD Worm
+NemesisGemina
+NEODYMIUM
+Nerex
+Net Crawler
+NetC
+NetDuke
+NETEAGLE
+Netsh Helper DLL
+NetTraveler
+NETUI
+NETWIRE
+Network Service Scanning
+Network Share Connection Removal
+Network Share Discovery
+Network Sniffing
+Network-based hiding techniques
+New Service
+Newscaster
+NICKEL ACADEMY
+Nidiran
+Night Dragon
+Nioupale
+Non-traditional or less attributable payment options
+NSA
+NSC
+NTFS File Attributes
+Numbered Panda
+Obfuscate infrastructure
+Obfuscate operational infrastructure
+Obfuscate or encrypt code
+Obfuscated Files or Information
+Obfuscation or cryptography
+Obtain Apple iOS enterprise distribution key pair and certificate
+Obtain booter/stressor subscription
+Obtain domain/IP registration information
+Obtain templates/branding materials
+Obtain/re-use payloads
+OceanLotus Group
+Office Application Startup
+Office of Cyber Affairs
+Office of International Communications and Information Policy
+Office of the Cyber Policy
+Ogilvy Government Relations
+OilRig
+OLDBAIT
+OnionDuke
+Operation Hangover
+Operation Molerats
+Operation Saffron Rose
+Operation Woolen-Goldfish
+OSInfo
+OS-vendor provided communication channels
+OwaAuth
+P2P ZeuS
+Pasam
+Pass the Hash
+Pass the Ticket
+Pass-The-Hash Toolkit
+Password Filter DLL
+Password Policy Discovery
+Patchwork
+Path Interception
+Pawn Storm
+Peck Madigan Jones
+Peer-to-Peer ZeuS
+Peripheral Device Discovery
+Permission Groups Discovery
+PHOREAL
+PhotoMiner
+PinchDuke
+PinkPanther
+Pirpi
+Pisloader
+PittyTiger
+PLATINUM
+Plist Modification
+PlugX
+pngdowner
+Poison Ivy
+PoisonIvy
+POORAIM
+Port Knocking
+Port Monitors
+Port redirector
+Poseidon Group
+POSHSPY
+Post compromise tool development
+Power Loader
+PowerDuke
+PowerShell
+POWERSOURCE
+PowerSploit
+POWERSTATS
+POWRUNER
+Prikormka
+Private Keys
+Private whois services
+Process Discovery
+Process Doppelgänging
+Process Hollowing
+Process Injection
+Procure required equipment and software
+ProjectSauron
+PROMETHIUM
+Proxy/protocol relays
+PsExec
+PSVC
+Psylo
+Pteranodon
+PUNCHBUGGY
+PUNCHTRACK
+Push-notification client-side exploit
+Putter Panda
+Pwdump
+Quedagh
+Query Registry
+RARSTONE
+RawPOS
+Rc.common
+Reaper
+Reaver
+Receive KITs/KIQs and determine requirements
+Receive operator KITs/KIQs tasking
+Red Apollo
+REDBALDKNIGHT
+RedLeaves
+Redundant Access
+Regin
+Registry Run Keys / Start Folder
+Regsvcs/Regasm
+Regsvr32
+Regulations
+Remote access tool development
+Remote Access Tools
+Remote Desktop Protocol
+Remote File Copy
+Remote Services
+Remote System Discovery
+RemoteCMD
+Remsec
+Re-opened Applications
+Replace legitimate binary with malware
+Replication Through Removable Media
+Research relevant CVEs
+Research relevant vulnerabilities
+Research relevant vulnerabilities/CVEs
+Research visibility gap of security vendors
+Responder
+Review logs and residual traces
+RIPTIDE
+ROCKBOOT
+Rocket Kitten
+Rootkit
+Routeros
+Rover
+RTM
+Rundll32
+Runtime code download and execution
+Sakula
+Sakurel
+Sandworm Team
+Sasfis
+Scanning Activity 
+ScarCruft
+Scarlet Mimic
+Scheduled Task
+Scheduled Transfer
+Scorpion
+Screen Capture
+Screensaver
+Scripting
+SDelete
+SeaDaddy
+SeaDesk
+SeaDuke
+SEASHARPEE
+Secure and protect infrastructure
+Security Software Discovery
+Security Support Provider
+Securityd Memory
+Sednit
+Sedreco
+Seduploader
+Service Execution
+Service Registry Permissions Weakness
+Setuid and Setgid
+Shadow DNS
+Shamoon
+Shared Webroot
+Shell Crew
+SHIPSHAPE
+Shortcut Modification
+SHOTPUT
+SHUTTERSPEED
+SID-History Injection
+Signed Binary Proxy Execution
+Signed Script Proxy Execution
+SIP and Trust Provider Hijacking
+Skeleton Key
+sKyWIper
+SLOWDRIFT
+Smoke Loader
+Sneaky Panda
+SNUGRIDE
+Sofacy
+SofacyCarberp
+Software Packing
+Sogu
+SOUNDBITE
+Source
+SOURFACE
+Sowbug
+Space after Filename
+SPACESHIP
+Spear phishing messages with malicious attachments
+Spear phishing messages with malicious links
+Spear phishing messages with text only
+Spearphishing Attachment
+Spearphishing for Information
+Spearphishing Link
+Spearphishing via Service
+SPLM
+Spring Dragon
+spwebmember
+sqlmap
+SSH Hijacking
+SSL certificate acquisition for domain
+SSL certificate acquisition for trust breaking
+SslMM
+Standard Application Layer Protocol
+Standard Cryptographic Protocol
+Standard Non-Application Layer Protocol
+Starloader
+Startup Items
+Stealth Falcon
+Stone Panda
+StreamEx
+Strider
+STRONTIUM
+S-Type
+Submit KITs, KIQs, and intelligence requirements
+Suckfly
+Sudo
+Sudo Caching
+Supply Chain Compromise
+Sykipot
+Sys10
+System Firmware
+System Information Discovery
+System Network Configuration Discovery
+System Network Connections Discovery
+System Owner/User Discovery
+System Service Discovery
+System Time Discovery
+T9000
+TA459
+TadjMakhal
+Taidoor
+Tailored Access Operations
+Taint Shared Content
+Targeted client-side exploitation
+Targeted social media phishing
+Task requirements
+Tasklist
+Tavdig
+TDTESS
+Telegram
+TEMP.Periscope
+TEMP.Reaper
+TEMP.Zagros
+Test ability to evade automated mobile application security analysis performed by app stores
+Test callback functionality
+Test malware in various execution environments
+Test malware to evade detection
+Test physical access
+Test signature detection
+Test signature detection for file email filters
+Test signature detection for file upload filters
+Test signature detection for file upload/email filters
+TEXTMATE
+TG-0110
+TG-0416
+TG-1314
+TG-2889
+TG-3390
+TG-4127
+The Coordinator for Cyber Issues
+The Dukes
+The International Sub-IPC
+The Office of the Director of National Intelligence
+Third-party Software
+Threat Group 2889
+Threat Group-0110
+Threat Group-0416
+Threat Group-1314
+Threat Group-3390
+Threat Group-4127
+Time Providers
+Timestomp
+TinyBaron
+TINYTYPHON
+TinyZBot
+TLS
+Token Control
+Tor
+Trap
+Trojan
+Trusted Developer Utilities
+Trusted Relationship
+Truvasys
+Tsar Team
+Turla
+TURNEDUP
+Two-Factor Authentication Interception
+UACMe
+Umbreon
+Unauthorized user introduces compromise delivery mechanism
+Uncommonly Used Port
+Unconditional client-side exploitation/Injected Website/Driveby
+Unknown Logger
+Untargeted client-side exploitation
+Upload, install, and configure software
+Upload, install, and configure software/tools
+Upload, install, and configure tools
+UPS Team
+Uroburos
+USB Stealer
+USBStealer
+Use multiple DNS infrastructures
+User Execution
+user to system EoP
+Valid Accounts
+Van Scoyoc Associates
+Vasport
+Video Capture
+VIPER
+Volgmer
+Waterbug
+WCE
+Web Service
+Web Shell
+WebAuthn
+WEBC2
+webhp
+WebMasters
+WhatsApp
+White House Cybersecurity Coordinator
+WhiteBear
+Wiarp
+Wilson Center
+Win32/Agent.UAW
+Win32/USBStealer
+Windows Admin Shares
+Windows Credential Editor
+Windows Management Instrumentation
+Windows Management Instrumentation Event Subscription
+Windows Remote Management
+WINDSHIELD
+WINERACK
+Winexe
+Wingbird
+Winlogon Helper DLL
+WinMM
+Winnti
+Winnti Group
+Wipbot
+Wiper
+WorldCupSec
+Xagent
+X-Agent
+XAgentOSX
+XAPS
+xCmd
+XTunnel
+X-Tunnel
+Zeroaccess
+ZeroT
+ZINC
+ZLib
