@@ -20,7 +20,7 @@ cursor1.execute(sql1)
 num = int(cursor1.fetchone()[0])
 print(num)
 
-
+#从文章中find关键词
 def findwords(content):
     keywords_found = keyword_processor.extract_keywords(content)
     new_keywords = []
@@ -32,6 +32,7 @@ def findwords(content):
             score = score + 1
     return new_keywords
 
+#制作markdown
 def makemd(time,newsid,score,keywords,author,url,content):
     name = './newsmarkdown/'+time[0:10]+'-'+newsid+'.markdown'
     print(name)
@@ -40,27 +41,21 @@ def makemd(time,newsid,score,keywords,author,url,content):
     timescore = time[0:11] + '00:00:' + str(score)
     for k in keywords:
         keystr = keystr + ',' + str(k)
-    #print author,timescore,url,keystr,content
     if not url:
         url = 'www.baidu.com'
     writestr = "---\nlayout: post\n"+"title: "+author+"\ndate: "+timescore+"\ntourl: "+url+"\ntags: ["+keystr[1:]+"]\n"+"---\n"+content
-    #print chardet.detect(writestr)
     f = open(name, 'w')
     f.write(writestr)
     f.close()
 
 for i in range(num):
     result = cursor.fetchone()
-    #result = result.decode("ISO-8859-2")
-    #result = result.encode("utf-8")
     ids = str(result[0])
     payloads = result[1]
     payloads = payloads.decode("ISO-8859-2")
     payloads = payloads.encode("utf-8")
-    #print(payloads)
     created_at = str(result[2]) 
-    text = json.loads(payloads)
-    #print type(text)
+    text = json.loads(payloads)#直接将数据用json解析
     print(text['full_text'])
     content = text['full_text']
     time = str(created_at)
